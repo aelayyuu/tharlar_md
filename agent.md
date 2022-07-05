@@ -1,3 +1,4 @@
+## မြန်မာ ##
 ### Agent ###
 ------------
 
@@ -31,3 +32,39 @@
     ဝင်ရန် သီးသန့် တောင်းဆိုနိုင်သည်။
 
 > သတိပြုရန်မှာ Verify လုပ်မထားပါက (Blue Mark မရှိပါက) တစ်ခြား Agent တစ်ယောက်ထံတွင်သာ Member တစ်ယောက်အနေဖြင့် အသင်းဝင်နိုင်သည်။ Verify လုပ်ထားပါက Member တစ်ယောက်အနေဖြင့် အကန့်အသတ်မရှိပဲ တစ်ခြား Agent များထံတွင်  အသင်းဝင်နိုင်သည်။ (Blue Mark ရှိသော Member များနှင့်ပက်သက်၍ Agent များ၏ ခံစားခွင့်များ(Agent Benefits)ကို About တွင် လေ့လာပါ)
+
+
+## English ##
+### Agent ###
+-------------
+
+    The agent may be someone else
+    I am also an agent
+    Available Multi Application
+    Is
+
+    People under the Agents column
+    Currently using this application
+    Agents At those agents
+    Join if you want to become a member
+    If you press it, Scan QR Code
+    You can become a member even after reading.
+
+> Note: Verified Only those with BlueMark are the right agents. Verified Only an agent with a blue check mark (BlueMark) can accept unlimited membership. (See Member Benefits for Blue Mark Agents in About)
+
+### Member ###
+-------------
+
+    Member lists are available to you
+    Members who are already members
+    Members who have their own members
+    Expulsion Addition Policies
+    Developer of non-compliant members
+    Reporting to
+    Can do
+    Agents who are members of you
+    If not, please contact the people who want to become a member.
+    Member by scanning the QR code
+    You can request a separate login.
+
+> Please note that you can only join as a member of another agent if you have not verified (without the Blue Mark). Once verified, a member can join other agents indefinitely. (See About Agent Benefits for Members with Blue Mark in About)
