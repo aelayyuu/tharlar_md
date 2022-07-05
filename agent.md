@@ -38,10 +38,9 @@
 ### Agent ###
 -------------
 
-    The agent may be someone else
-    I am also an agent
-    Available Multi Application
-    Is
+    The agent may be someone or you can
+    use this Multi Application as the 
+    agent yourself.
 
     People under the Agents column
     Currently using this application
