@@ -47,7 +47,8 @@
     Agents At those agents
     Join if you want to become a member
     If you press it, Scan QR Code
-    You can become a member even after reading.
+    You can become a member even
+     after reading.
 
 > Note: Verified Only those with BlueMark are the right agents. Verified Only an agent with a blue check mark (BlueMark) can accept unlimited membership. (See Member Benefits for Blue Mark Agents in About)
 
@@ -59,10 +60,10 @@
     Members who have their own members
     Expulsion Addition Policies
     Developer of non-compliant members
-    Reporting to
-    Can do
+    Reporting to Can do.
     Agents who are members of you
-    If not, please contact the people who want to become a member.
+    If not, please contact the people
+     who want to become a member.
     Member by scanning the QR code
     You can request a separate login.
 
